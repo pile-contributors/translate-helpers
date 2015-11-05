@@ -1,0 +1,3 @@
+[submodule "translate"]
+	path = translate
+	url = git@github.com:pile-contributors/translate.git
